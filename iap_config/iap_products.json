@@ -1,0 +1,19 @@
+{
+  "app": "SudokuNote",
+  "package": "com.SudokuNoteMNG.SudokuNote",
+  "remoteConfig": "https://api2.blwsmartware.net/N288.json",
+  "products": [
+    { "productId": "sn_pack_1", "type": "consumable", "stars": 50, "name": "SudokuNote Coin Pack 1" },
+    { "productId": "sn_pack_2", "type": "consumable", "stars": 100, "name": "SudokuNote Coin Pack 2" },
+    { "productId": "sn_pack_3", "type": "consumable", "stars": 200, "name": "SudokuNote Coin Pack 3" },
+    { "productId": "sn_pack_4", "type": "consumable", "stars": 350, "name": "SudokuNote Coin Pack 4" },
+    { "productId": "sn_pack_5", "type": "consumable", "stars": 500, "name": "SudokuNote Coin Pack 5" },
+    { "productId": "sn_pack_6", "type": "consumable", "stars": 750, "name": "SudokuNote Coin Pack 6" },
+    { "productId": "sn_pack_7", "type": "consumable", "stars": 1000, "name": "SudokuNote Coin Pack 7" },
+    { "productId": "sn_pack_8", "type": "consumable", "stars": 1500, "name": "SudokuNote Coin Pack 8" },
+    { "productId": "sn_pack_9", "type": "consumable", "stars": 2200, "name": "SudokuNote Coin Pack 9" },
+    { "productId": "sn_pack_10", "type": "consumable", "stars": 3000, "name": "SudokuNote Coin Pack 10" },
+    { "productId": "sn_remove_ads", "type": "non-consumable", "stars": 0, "name": "SudokuNote Remove Ads" },
+    { "productId": "sn_pro", "type": "non-consumable", "stars": 0, "name": "SudokuNote Pro" }
+  ]
+}
